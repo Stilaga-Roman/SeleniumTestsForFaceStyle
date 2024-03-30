@@ -36,6 +36,4 @@ public class UserSelectionAndViewTest {
     public void tearDown() {
         authHelper.closeBrowser();
     }
-
-
 }
